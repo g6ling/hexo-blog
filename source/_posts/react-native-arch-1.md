@@ -2,8 +2,8 @@ title: react native 구조짜기
 author: Cheol Kang
 tags:
   - react-native
-  - ''
   - korean
+  - architecture
 categories:
   - react-native
 date: 2016-09-17 17:21:00
